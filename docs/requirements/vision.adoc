@@ -85,9 +85,34 @@ Beispiel Produkt:
 |===
 | Name | Beschreibung | Verantwortlichkeiten
 
-| [Benennung des Stakeholder-Typs.]
-| [Kurze Beschreibung des Stakeholders.]
-| [Fassen Sie die wesentlichen Verantwortlichkeiten des Stakeholder mit Bezug auf das zu entwickelnde System kurz zusammen, d.h. ihr besonderen Interessen. Beispiele: Dieser Stakeholder sorgt dafür, dass das System gewartet wird / dass die angezeigten Daten aktuell sind / überwacht den Projektfortschritt / usw.]
+| Barbetreiber
+| Besitzer der Bar
+| Gibt den Auftrag vor
+ 
+| Kunden
+| Kunden der Bar
+| Hauptnutzer der Software. Bestellen ihre Cocktails damit. Können eigene Cocktails zusammenstellen.
+ 
+| Zahlungsabwicklung
+| Zahlungsservice wie zb Paypal
+| Kümmert sich darum, dass die Kunden ihre Bestellungen bezahlen und die Bar das Geld bekommt.
+
+| Gesetzgeber
+| Jugendschutz, Datenschutz
+| Mindestbestellalter bzw. Alterskontrolle bei akoholhaltigen Cocktails. Datenschutz.
+
+| Lieferung
+| Mitarbeiter der Bar bzw. externes Lieferunternehmen/Spetition
+| Liefern die Cocktails zum Kunden aus.
+
+| Mitarbeiter
+| Mitarbeiter der Bar
+| Stellen die Cocktails zusammen.
+
+| Host
+| Host, auf welchem die Software/Internetseite läuft
+| Stellt Service zu verfügung, dass die Website überhaupt online ist.
+
 |===
 
 === Benutzerumgebung

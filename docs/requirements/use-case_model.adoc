@@ -9,11 +9,17 @@ include::../_includes/default-attributes.inc.adoc[]
 // ...
 
 
-== Identifizierte Use Cases
+== Identifizierte Use Cases (priorisiert)
 // Liste aller identifizierten Use Cases (priorisiert)
-* *UC01*: ...
-* *UC02*: ...
-
+* *UC01*: Bestellung aufgeben
+* *UC02*: Über Angeot informieren (Produkte auflisten -> Katalog)
+* *UC03*: Bestellstatus bearbeiten
+* ---------- die 3 hier oben sind die wichtigsten ----------
+* *UC04*: Bestellung stornieren
+* *UC05*: Auslieferung bestätigen
+* *UC06*: Bestellung zuweisen
+* *UC07*: Eigenen Cocktail kreieren
+* *UC08*: Angebote anpassen/Katalog bearbeiten
 
 == Use Case Diagramm
 // ...
